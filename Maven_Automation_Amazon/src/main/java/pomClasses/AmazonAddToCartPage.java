@@ -21,7 +21,7 @@ public class AmazonAddToCartPage {
 	// Constructor
 	
 	public AmazonAddToCartPage(WebDriver driver) {
-		PageFactory.initElements(driver, this);
+		//PageFactory.initElements(driver, this);
 	}
 	// Methods
 	
